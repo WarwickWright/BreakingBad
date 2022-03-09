@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BreakingBad</string>
+    <string name="toast_no_net">No Net</string>
+</resources>
